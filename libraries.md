@@ -25,7 +25,7 @@
 
 ## Internationalization (I18n) and Localization (L10n)
   - [translateable-behavior ^1.0] (https://github.com/2amigos/yii2-translateable-behavior) 
-    [Translate Manager ^1.6.0] (https://github.com/lajax/yii2-translate-manager)   
+  - [Translate Manager ^1.6.0] (https://github.com/lajax/yii2-translate-manager)   
 ## Users and Rbac
   - [dektrium/yii2-user ^0.9.12"] (https://github.com/dektrium/yii2-user)
   - [dektrium/yii2-rbac ^0.3.999.3"] (https://github.com/dektrium/yii2-rbac)
