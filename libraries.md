@@ -1,4 +1,4 @@
-#Libraries Used by Poo App
+# Libraries Used by Poo App
 
 ## Composer Helper
   - [wikimedia/composer-merge-plugin] (https://github.com/wikimedia/composer-merge-plugin)
