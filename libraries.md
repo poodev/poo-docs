@@ -14,6 +14,7 @@
             ]
         }
    },
+   ```
 
 ## App Tools
   - [bedezign/yii2-audit ^1.0.7] (https://github.com/bedezign/yii2-audit)
