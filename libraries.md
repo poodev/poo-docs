@@ -23,8 +23,9 @@
   
 ## Theme and Template
   - AdminLte
-  - "romdim/yii2-bootstrap-material": "^1.0",
-  - "yiisoft/yii2-bootstrap": "2.*",
+  - [yiisoft/yii2-bootstrap  2.*] (https://github.com/yiisoft/yii2-bootstrap)
+  - [yiisoft/yii2-twig 2.1.0] (https://github.com/yiisoft/yii2-twig)
+  - [romdim/yii2-bootstrap-material ^1.0] (https://github.com/romdim/yii2-bootstrap-material)
 
 ## I18N and L10N
   - [translateable-behavior ^1.0] (https://github.com/2amigos/yii2-translateable-behavior) 
@@ -42,21 +43,21 @@
   - [CKEditor ^2.1.0] (https://github.com/2amigos/yii2-ckeditor-widget) 
   - [Selectize ^1.0] (https://github.com/2amigos/yii2-selectize-widget) 
   - [Cookie Consent ^1.4] (https://github.com/cinghie/yii2-cookie-consent) 
-    "dmstr/yii2-filemanager-widgets": "^0.6.0",
-    "trntv/yii2-aceeditor": "^2.0.2",
-        
+  - [dmstr/yii2-filemanager-widgets ^0.6.0] (https://github.com/dmstr/yii2-filemanager-widgets)
+  - [trntv/yii2-aceeditor ^2.0.2] (https://github.com/trntv/yii2-aceeditor)
+  - [yiisoft/yii2-twig ^2.1.0] (https://github.com/trntv/yii2-aceeditor)
+    
 ## Settings (app config UI)
   - [pheme/yii2-settings ^0.5.0] (https://github.com/phemellc/yii2-settings)
         
 ## Documents         
-  - "phpoffice/phpexcel": "^1.8",
+  - [phpoffice/phpexcel ^1.8] (https://github.com/phpoffice/phpexcel),
   
 ## App Modules  
         "dmstr/yii2-backend-module": "^0.7.1",
         "dmstr/yii2-contact-module": "^0.1.3",
         "dmstr/yii2-redirect-module": "^0.3.1",
         "dmstr/yii2-filefly-module": "^0.6.13",
-      
 
         "dmstr/yii2-prototype-module": "^0.6.0",
         "dmstr/yii2-resque-module": "^0.4.0",
@@ -83,6 +84,6 @@
         "yiisoft/yii2": "~2.0.11",
         
         
-        "yiisoft/yii2-twig": "^2.1.0",
+        
         "zhuravljov/yii2-datetime-widgets": "^1.0"
   
