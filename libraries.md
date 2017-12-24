@@ -19,6 +19,7 @@
 ## App Tools
   - [bedezign/yii2-audit ^1.0.7] (https://github.com/bedezign/yii2-audit)
   - [2amigos/yii2-config-kit ^1.0.0] (https://github.com/2amigos/yii2-config-kit)
+  - [creocoder/yii2-flysystem ^0.8.999.1] (https://github.com/creocoder/yii2-flysystem)
   
 ## Themeing
   - AdminLte
@@ -26,6 +27,11 @@
 ## Internationalization (I18n) and Localization (L10n)
   - [translateable-behavior ^1.0] (https://github.com/2amigos/yii2-translateable-behavior) 
   - [Translate Manager ^1.6.0] (https://github.com/lajax/yii2-translate-manager)   
+  - [localeurls ^1.4.12] (https://github.com/codemix/yii2-localeurls)  
+  
+## Logs  
+  - [codemix/yii2-streamlog - target ^1.2.1] (https://github.com/codemix/yii2-streamlog)
+  
 ## Users and Rbac
   - [dektrium/yii2-user ^0.9.12"] (https://github.com/dektrium/yii2-user)
   - [dektrium/yii2-rbac ^0.3.999.3"] (https://github.com/dektrium/yii2-rbac)
@@ -37,9 +43,9 @@
         
 
 
-        "codemix/yii2-localeurls": "^1.4.12",
-        "codemix/yii2-streamlog": "^1.2.1",
-        "creocoder/yii2-flysystem": "^0.8.999.1",
+        
+        
+        
         "dmstr/yii2-backend-module": "^0.7.1",
         "dmstr/yii2-contact-module": "^0.1.3",
         "dmstr/yii2-redirect-module": "^0.3.1",
