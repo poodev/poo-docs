@@ -41,11 +41,13 @@
   - [Selectize ^1.0] (https://github.com/2amigos/yii2-selectize-widget) 
   - [Cookie Consent ^1.4] (https://github.com/cinghie/yii2-cookie-consent) 
         
-
-
+## Settings (app config UI)
+  - [pheme/yii2-settings ^0.5.0] (https://github.com/phemellc/yii2-settings)
         
-        
-        
+## Documents         
+  - "phpoffice/phpexcel": "^1.8",
+  
+## App Modules  
         "dmstr/yii2-backend-module": "^0.7.1",
         "dmstr/yii2-contact-module": "^0.1.3",
         "dmstr/yii2-redirect-module": "^0.3.1",
@@ -55,12 +57,12 @@
         "dmstr/yii2-prototype-module": "^0.6.0",
         "dmstr/yii2-resque-module": "^0.4.0",
         "dmstr/yii2-widgets2-module": "^0.6.0",
+        
         "knplabs/github-api": "^1.7",
         "league/flysystem-aws-s3-v3": "^1.0",
         "loveorigami/yii2-notification-wrapper": "^6.1",
         "mexitek/phpcolors": "^0.4.0",
-        "pheme/yii2-settings": "^0.5.0",
-        "phpoffice/phpexcel": "^1.8",
+        
         "roave/security-advisories": "dev-master",
         "romdim/yii2-bootstrap-material": "^1.0",
         "thomaspark/bootswatch": "^3.3",
