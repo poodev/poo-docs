@@ -23,8 +23,10 @@
   
 ## Themeing
   - AdminLte
+  - "romdim/yii2-bootstrap-material": "^1.0",
+  - "yiisoft/yii2-bootstrap": "2.*",
 
-## Internationalization (I18n) and Localization (L10n)
+## I18N and L10N
   - [translateable-behavior ^1.0] (https://github.com/2amigos/yii2-translateable-behavior) 
   - [Translate Manager ^1.6.0] (https://github.com/lajax/yii2-translate-manager)   
   - [localeurls ^1.4.12] (https://github.com/codemix/yii2-localeurls)  
@@ -40,6 +42,8 @@
   - [CKEditor ^2.1.0] (https://github.com/2amigos/yii2-ckeditor-widget) 
   - [Selectize ^1.0] (https://github.com/2amigos/yii2-selectize-widget) 
   - [Cookie Consent ^1.4] (https://github.com/cinghie/yii2-cookie-consent) 
+    "dmstr/yii2-filemanager-widgets": "^0.6.0",
+    "trntv/yii2-aceeditor": "^2.0.2",
         
 ## Settings (app config UI)
   - [pheme/yii2-settings ^0.5.0] (https://github.com/phemellc/yii2-settings)
@@ -52,26 +56,33 @@
         "dmstr/yii2-contact-module": "^0.1.3",
         "dmstr/yii2-redirect-module": "^0.3.1",
         "dmstr/yii2-filefly-module": "^0.6.13",
-        "dmstr/yii2-filemanager-widgets": "^0.6.0",
-        "dmstr/yii2-migrate-command": "^0.4.0-beta1",
+      
+
         "dmstr/yii2-prototype-module": "^0.6.0",
         "dmstr/yii2-resque-module": "^0.4.0",
         "dmstr/yii2-widgets2-module": "^0.6.0",
+        
+## Securities
+  - [roave/security-advisories dev-master] (https://github.com/Roave/SecurityAdvisories)
         
         "knplabs/github-api": "^1.7",
         "league/flysystem-aws-s3-v3": "^1.0",
         "loveorigami/yii2-notification-wrapper": "^6.1",
         "mexitek/phpcolors": "^0.4.0",
         
-        "roave/security-advisories": "dev-master",
-        "romdim/yii2-bootstrap-material": "^1.0",
-        "thomaspark/bootswatch": "^3.3",
-        "trntv/yii2-aceeditor": "^2.0.2",
+## Database        
+   "yiisoft/yii2-redis": "^2.0.5",
+   
+## System
+  - "vlucas/phpdotenv": "2.*",
+          "dmstr/yii2-migrate-command": "^0.4.0-beta1",
+  
+        
         "uran1980/yii2-jquery-essential": "^0.0.6",
-        "vlucas/phpdotenv": "2.*",
+        
         "yiisoft/yii2": "~2.0.11",
-        "yiisoft/yii2-bootstrap": "2.*",
-        "yiisoft/yii2-redis": "^2.0.5",
+        
+        
         "yiisoft/yii2-twig": "^2.1.0",
         "zhuravljov/yii2-datetime-widgets": "^1.0"
   
