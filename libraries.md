@@ -20,6 +20,8 @@
   - [bedezign/yii2-audit ^1.0.7] (https://github.com/bedezign/yii2-audit)
   - [2amigos/yii2-config-kit ^1.0.0] (https://github.com/2amigos/yii2-config-kit)
   - [creocoder/yii2-flysystem ^0.8.999.1] (https://github.com/creocoder/yii2-flysystem)
+  - [league/flysystem ~1.0] (https://github.com/thephpleague/flysystem)
+  - [league/flysystem-aws-s3-v3 ^1.0] (https://github.com/thephpleague/flysystem-aws-s3-v3)
   
 ## Theme and Template
   - AdminLte
@@ -85,7 +87,6 @@
  - [dmstr/yii2-resque-module ^0.4.0] (https://github.com/dmstr/yii2-resque-module)
  - [chrisboulton/php-resque 1.2.x] (https://github.com/chrisboulton/php-resque)
 
-        "knplabs/github-api": "^1.7",
-        "league/flysystem-aws-s3-v3": "^1.0",
-
-        "mexitek/phpcolors": "^0.4.0",
+        
+        
+        
