@@ -21,7 +21,7 @@
   - [2amigos/yii2-config-kit ^1.0.0] (https://github.com/2amigos/yii2-config-kit)
   - [creocoder/yii2-flysystem ^0.8.999.1] (https://github.com/creocoder/yii2-flysystem)
   
-## Themeing
+## Theme and Template
   - AdminLte
   - "romdim/yii2-bootstrap-material": "^1.0",
   - "yiisoft/yii2-bootstrap": "2.*",
