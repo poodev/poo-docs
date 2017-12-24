@@ -26,7 +26,8 @@
   - [yiisoft/yii2-bootstrap  2.*] (https://github.com/yiisoft/yii2-bootstrap)
   - [yiisoft/yii2-twig 2.1.0] (https://github.com/yiisoft/yii2-twig)
   - [romdim/yii2-bootstrap-material ^1.0] (https://github.com/romdim/yii2-bootstrap-material)
-
+  - [yiisoft/yii2-twig ^2.1.0] (https://github.com/trntv/yii2-aceeditor)
+  
 ## I18N and L10N
   - [translateable-behavior ^1.0] (https://github.com/2amigos/yii2-translateable-behavior) 
   - [Translate Manager ^1.6.0] (https://github.com/lajax/yii2-translate-manager)   
@@ -45,7 +46,9 @@
   - [Cookie Consent ^1.4] (https://github.com/cinghie/yii2-cookie-consent) 
   - [dmstr/yii2-filemanager-widgets ^0.6.0] (https://github.com/dmstr/yii2-filemanager-widgets)
   - [trntv/yii2-aceeditor ^2.0.2] (https://github.com/trntv/yii2-aceeditor)
-  - [yiisoft/yii2-twig ^2.1.0] (https://github.com/trntv/yii2-aceeditor)
+  - [uran1980/yii2-jquery-essential ^0.0.6] ()
+  - [zhuravljov/yii2-datetime-widgets ^1.0] ()
+  - [loveorigami/yii2-notification-wrapper ^6.1] (https://github.com/loveorigami/yii2-notification-wrapper)
     
 ## Settings (app config UI)
   - [pheme/yii2-settings ^0.5.0] (https://github.com/phemellc/yii2-settings)
@@ -60,30 +63,29 @@
         "dmstr/yii2-filefly-module": "^0.6.13",
 
         "dmstr/yii2-prototype-module": "^0.6.0",
-        "dmstr/yii2-resque-module": "^0.4.0",
+        
         "dmstr/yii2-widgets2-module": "^0.6.0",
         
 ## Securities
   - [roave/security-advisories dev-master] (https://github.com/Roave/SecurityAdvisories)
         
-        "knplabs/github-api": "^1.7",
-        "league/flysystem-aws-s3-v3": "^1.0",
-        "loveorigami/yii2-notification-wrapper": "^6.1",
-        "mexitek/phpcolors": "^0.4.0",
         
-## Database        
-   "yiisoft/yii2-redis": "^2.0.5",
+## Database / Data Persistence       
+   [yiisoft/yii2-redis ^2.0.5] (https://github.com/yiisoft/yii2-redis)
+   [dmstr/yii2-migrate-command ^0.4.0-beta1] (https://github.com/dmstr/yii2-migrate-command)
    
 ## System
-  - "vlucas/phpdotenv": "2.*",
-          "dmstr/yii2-migrate-command": "^0.4.0-beta1",
+
+ - [vlucas/phpdotenv 2.*] (https://github.com/vlucas/phpdotenv)
+   
   
-        
-        "uran1980/yii2-jquery-essential": "^0.0.6",
-        
-        "yiisoft/yii2": "~2.0.11",
-        
-        
-        
-        "zhuravljov/yii2-datetime-widgets": "^1.0"
+
+## Queue / Cron Jobs
   
+ - [dmstr/yii2-resque-module ^0.4.0] (https://github.com/dmstr/yii2-resque-module)
+ - [chrisboulton/php-resque 1.2.x] (https://github.com/chrisboulton/php-resque)
+
+        "knplabs/github-api": "^1.7",
+        "league/flysystem-aws-s3-v3": "^1.0",
+
+        "mexitek/phpcolors": "^0.4.0",
