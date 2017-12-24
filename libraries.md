@@ -25,7 +25,8 @@
   
 ## Theme and Template
   - AdminLte
-  - [yiisoft/yii2-bootstrap  2.*] (https://github.com/yiisoft/yii2-bootstrap)
+    - [dmstr/yii2-adminlte-asset] (https://github.com/dmstr/yii2-adminlte-asset)
+    - [yiisoft/yii2-bootstrap  2.*] (https://github.com/yiisoft/yii2-bootstrap)
   - [yiisoft/yii2-twig 2.1.0] (https://github.com/yiisoft/yii2-twig)
   - [romdim/yii2-bootstrap-material ^1.0] (https://github.com/romdim/yii2-bootstrap-material)
   - [yiisoft/yii2-twig ^2.1.0] (https://github.com/trntv/yii2-aceeditor)
